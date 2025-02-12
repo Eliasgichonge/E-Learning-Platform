@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Serving media files">
-      <change beforePath="$PROJECT_DIR$/educa/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/models.py" afterDir="false" />
+    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Building the course models">
+      <change beforePath="$PROJECT_DIR$/educa/courses/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   }
 }]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/educa/courses/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
   </component>
@@ -111,13 +112,22 @@
       <option name="project" value="LOCAL" />
       <updated>1739376447283</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Building the course models">
+      <option name="closed" value="true" />
+      <created>1739376874602</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739376874602</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Building an E-Learning Platform" />
     <MESSAGE value="Setting up the e-learning project" />
     <MESSAGE value="Serving media files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Serving media files" />
+    <MESSAGE value="Building the course models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Building the course models" />
   </component>
 </project>
