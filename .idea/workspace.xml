@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c9e850f-71be-4ba8-90f6-3599561b4fa6" name="Changes" comment="Setting up the e-learning project" />
+    <list default="true" id="9c9e850f-71be-4ba8-90f6-3599561b4fa6" name="Changes" comment="Serving media files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +27,7 @@
 }]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/educa/educa/settings.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -124,12 +125,29 @@
       <option name="project" value="LOCAL" />
       <updated>1739372093255</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Serving media files">
+      <option name="closed" value="true" />
+      <created>1739372160196</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739372160196</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Serving media files">
+      <option name="closed" value="true" />
+      <created>1739372286467</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739372286467</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Building an E-Learning Platform" />
     <MESSAGE value="Setting up the e-learning project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setting up the e-learning project" />
+    <MESSAGE value="Serving media files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Serving media files" />
   </component>
 </project>
