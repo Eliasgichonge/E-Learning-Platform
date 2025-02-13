@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Creating the Content models">
-      <change afterPath="$PROJECT_DIR$/educa/courses/fields.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Creating custom model fields">
+      <change beforePath="$PROJECT_DIR$/educa/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739436182195</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Creating custom model fields">
+      <option name="closed" value="true" />
+      <created>1739437683120</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739437683120</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,6 +204,7 @@
     <MESSAGE value="Registering the models in the administration site" />
     <MESSAGE value="Creating models for polymorphic content" />
     <MESSAGE value="Creating the Content models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating the Content models" />
+    <MESSAGE value="Creating custom model fields" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating custom model fields" />
   </component>
 </project>
