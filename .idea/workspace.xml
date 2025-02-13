@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Creating custom model fields">
+    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Adding ordering to module and content objects">
       <change beforePath="$PROJECT_DIR$/educa/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739437683120</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Adding ordering to module and content objects">
+      <option name="closed" value="true" />
+      <created>1739437932304</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739437932304</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,6 +213,7 @@
     <MESSAGE value="Creating models for polymorphic content" />
     <MESSAGE value="Creating the Content models" />
     <MESSAGE value="Creating custom model fields" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating custom model fields" />
+    <MESSAGE value="Adding ordering to module and content objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding ordering to module and content objects" />
   </component>
 </project>

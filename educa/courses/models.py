@@ -40,6 +40,9 @@ class Module(models.Model):
       description = models.TextField(blank=True)
       order = OrderField(blank=True, for_fields=['course'])
 
+      class Meta:
+            ordering = ['order']
+
       def __str__(self):
           return f'{self.order}. {self.title}'
 
@@ -57,6 +60,11 @@ class Content(models.Model):
                                            'file')})
       object_id = models.PositiveIntegerField()
       item = GenericForeignKey('content_type', 'object_id')
+      order = OrderField(blank=True, for_fields=['module'])
+
+      class Meta:
+            ordering = ['order']
+
 
 class ItemBase(models.Model):
        owner = models.ForeignKey(User,
