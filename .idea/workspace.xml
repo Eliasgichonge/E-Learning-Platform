@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Building the course models">
-      <change beforePath="$PROJECT_DIR$/educa/courses/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/admin.py" afterDir="false" />
+    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Registering the models in the administration site">
+      <change afterPath="$PROJECT_DIR$/educa/courses/courses/fixtures/subjects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/static/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educa/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/educa/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +33,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/educa/courses/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/static/css/base.css" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -120,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739376874602</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Registering the models in the administration site">
+      <option name="closed" value="true" />
+      <created>1739377055138</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739377055138</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,6 +140,7 @@
     <MESSAGE value="Setting up the e-learning project" />
     <MESSAGE value="Serving media files" />
     <MESSAGE value="Building the course models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Building the course models" />
+    <MESSAGE value="Registering the models in the administration site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Registering the models in the administration site" />
   </component>
 </project>
