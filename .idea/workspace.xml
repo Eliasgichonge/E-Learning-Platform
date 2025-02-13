@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Adding ordering to module and content objects">
-      <change beforePath="$PROJECT_DIR$/educa/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/models.py" afterDir="false" />
+    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Adding an authentication system">
+      <change afterPath="$PROJECT_DIR$/educa/courses/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templates/registration/logged_out.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -39,6 +43,8 @@
     <setting file="file://$PROJECT_DIR$/educa/courses/fields.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/static/css/base.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/templates/base.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/templates/registration/login.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
@@ -50,13 +56,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -201,7 +208,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739437932304</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Adding ordering to module and content objects">
+      <option name="closed" value="true" />
+      <created>1739438376152</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739438376152</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adding authentication views">
+      <option name="closed" value="true" />
+      <created>1739438479446</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1739438479446</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Adding an authentication system">
+      <option name="closed" value="true" />
+      <created>1739438567059</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1739438567059</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,6 +245,8 @@
     <MESSAGE value="Creating the Content models" />
     <MESSAGE value="Creating custom model fields" />
     <MESSAGE value="Adding ordering to module and content objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding ordering to module and content objects" />
+    <MESSAGE value="Adding authentication views" />
+    <MESSAGE value="Adding an authentication system" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding an authentication system" />
   </component>
 </project>
