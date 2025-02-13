@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Registering the models in the administration site">
-      <change afterPath="$PROJECT_DIR$/educa/courses/courses/fixtures/subjects.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educa/courses/static/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/educa/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/educa/db.sqlite3" afterDir="false" />
+    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Creating models for polymorphic content">
+      <change beforePath="$PROJECT_DIR$/educa/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739377055138</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Creating models for polymorphic content">
+      <option name="closed" value="true" />
+      <created>1739426176046</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739426176046</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Creating models for polymorphic content">
+      <option name="closed" value="true" />
+      <created>1739426288098</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739426288098</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +154,7 @@
     <MESSAGE value="Serving media files" />
     <MESSAGE value="Building the course models" />
     <MESSAGE value="Registering the models in the administration site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Registering the models in the administration site" />
+    <MESSAGE value="Creating models for polymorphic content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating models for polymorphic content" />
   </component>
 </project>
