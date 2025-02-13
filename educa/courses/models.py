@@ -1,5 +1,4 @@
 from symtable import Class
-
 from django.db import models
 from django.contrib.auth.models import User
 from django.contrib.contenttypes.models import ContentType
@@ -57,9 +56,9 @@ class Content(models.Model):
       object_id = models.PositiveIntegerField()
       item = GenericForeignKey('content_type', 'object_id')
 
-class Itembase(models.Model):
+class ItemBase(models.Model):
        owner = models.ForeignKey(User,
-                                 related_name='%class)s_realated',
+                                 related_name='%(class)s_related',
                                  on_delete=models.CASCADE)
        title = models.CharField(max_length=250)
        created = models.DateTimeField(auto_now_add=True)
@@ -72,17 +71,17 @@ class Itembase(models.Model):
            return self.title
 
 
-class Text(Itembase):
+class Text(ItemBase):
       content = models.TextField()
 
 
-class File(Itembase):
+class File(ItemBase):
       file = models.FileField(upload_to='files')
 
 
-class Image(Itembase):
+class Image(ItemBase):
       file = models.FileField(upload_to='images')
 
 
-class Video(Itembase):
+class Video(ItemBase):
       url =models.URLField()
