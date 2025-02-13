@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Creating the authentication templates" />
+    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Using mixins for class-based views">
+      <change beforePath="$PROJECT_DIR$/educa/courses/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +42,7 @@
     <setting file="file://$PROJECT_DIR$/educa/courses/static/css/base.css" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/base.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/registration/login.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
@@ -243,7 +246,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739440260632</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Creating a Content Management &#10;System">
+      <option name="closed" value="true" />
+      <created>1739440434404</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1739440434404</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Creating class-based views">
+      <option name="closed" value="true" />
+      <created>1739440488955</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1739440488955</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Using mixins for class-based views">
+      <option name="closed" value="true" />
+      <created>1739440605996</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1739440605996</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Using mixins for class-based views">
+      <option name="closed" value="true" />
+      <created>1739440658668</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1739440658668</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -259,6 +294,9 @@
     <MESSAGE value="Adding authentication views" />
     <MESSAGE value="Adding an authentication system" />
     <MESSAGE value="Creating the authentication templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating the authentication templates" />
+    <MESSAGE value="Creating a Content Management &#10;System" />
+    <MESSAGE value="Creating class-based views" />
+    <MESSAGE value="Using mixins for class-based views" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using mixins for class-based views" />
   </component>
 </project>
