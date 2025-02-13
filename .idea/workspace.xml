@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Using mixins for class-based views">
-      <change beforePath="$PROJECT_DIR$/educa/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/educa/db.sqlite3" afterDir="false" />
+    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Restricting access to class-based views">
+      <change afterPath="$PROJECT_DIR$/educa/courses/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -42,6 +42,7 @@
     <setting file="file://$PROJECT_DIR$/educa/courses/static/css/base.css" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/base.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/registration/login.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
   </component>
@@ -286,7 +287,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739440858394</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Working with groups and permissions">
+      <option name="closed" value="true" />
+      <created>1739441791452</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1739441791452</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Restricting access to class-based views">
+      <option name="closed" value="true" />
+      <created>1739442018035</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1739442018035</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -305,6 +322,8 @@
     <MESSAGE value="Creating a Content Management &#10;System" />
     <MESSAGE value="Creating class-based views" />
     <MESSAGE value="Using mixins for class-based views" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using mixins for class-based views" />
+    <MESSAGE value="Working with groups and permissions" />
+    <MESSAGE value="Restricting access to class-based views" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restricting access to class-based views" />
   </component>
 </project>
