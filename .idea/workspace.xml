@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Adding an authentication system">
-      <change afterPath="$PROJECT_DIR$/educa/courses/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educa/courses/templates/registration/logged_out.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educa/courses/templates/registration/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e44d9675-d58c-4324-b1bf-7b9ae0aecd72" name="Changes" comment="Creating the authentication templates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -232,7 +227,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739438567059</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Creating the authentication templates">
+      <option name="closed" value="true" />
+      <created>1739440066199</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1739440066201</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Creating the authentication templates">
+      <option name="closed" value="true" />
+      <created>1739440260632</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1739440260632</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,6 +258,7 @@
     <MESSAGE value="Adding ordering to module and content objects" />
     <MESSAGE value="Adding authentication views" />
     <MESSAGE value="Adding an authentication system" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding an authentication system" />
+    <MESSAGE value="Creating the authentication templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating the authentication templates" />
   </component>
 </project>
