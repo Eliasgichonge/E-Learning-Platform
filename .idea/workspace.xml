@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Using formsets for course modules">
-      <change afterPath="$PROJECT_DIR$/educa/courses/templates/courses/manage/content/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/educa/courses/templates/courses/manage/course/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/templates/courses/manage/course/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templates/courses/manage/module/content_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templatetags/course.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -32,9 +34,11 @@
     <setting file="file://$PROJECT_DIR$/educa/courses/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/static/css/base.css" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/base.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/content/form.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/course/delete.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/course/form.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/course/list.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/module/content_list.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/module/formset.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/registration/logged_out.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/registration/login.html" root0="SKIP_INSPECTION" />
@@ -80,14 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739554844756</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Using fixtures to provide initial data for models">
-      <option name="closed" value="true" />
-      <created>1739557447937</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1739557447937</updated>
     </task>
     <task id="LOCAL-00029" summary="Using fixtures to provide initial data for models">
       <option name="closed" value="true" />
@@ -473,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739563478000</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Using formsets for course modules">
+      <option name="closed" value="true" />
+      <created>1739564055614</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1739564055614</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
