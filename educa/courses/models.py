@@ -57,7 +57,12 @@ class Content(models.Model):
 class ItemBase(models.Model):
       owner = models.ForeignKey(User,
                               related_name='%(class)s_related',
-                              on_delete=models.CASCADE)
+                              on_delete=models.CASCADE,
+                                limit_choices_to={'model__in': (
+                                    'text',
+                                    'video',
+                                    'image',
+                                    'file')})
       title = models.CharField(max_length=250)
       created = models.DateTimeField(auto_now_add=True)
       updated = models.DateTimeField(auto_now=True)
