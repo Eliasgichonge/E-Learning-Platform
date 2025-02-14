@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Using fixtures to provide initial data for models">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educa/courses/courses/fixtures/subjects.json" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/fixtures/subjects.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/educa/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/educa/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/educa/courses/admin.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/courses/fixtures/subjects.json" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
@@ -269,7 +272,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739557158421</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Using fixtures to provide initial data for models">
+      <option name="closed" value="true" />
+      <created>1739557447937</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1739557447937</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Using fixtures to provide initial data for models">
+      <option name="closed" value="true" />
+      <created>1739557526051</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1739557526051</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
