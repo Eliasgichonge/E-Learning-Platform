@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Monitoring Redis with Django Redisboard">
-      <change beforePath="$PROJECT_DIR$/educa/educa/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/educa/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Monitoring Redis with Django Redisboard" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,30 +90,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739554844756</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Creating the authentication templates">
-      <option name="closed" value="true" />
-      <created>1739559950286</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1739559950286</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Creating the authentication templates">
-      <option name="closed" value="true" />
-      <created>1739560039728</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1739560039729</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Creating the authentication templates">
-      <option name="closed" value="true" />
-      <created>1739560064385</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1739560064385</updated>
     </task>
     <task id="LOCAL-00063" summary="Creating the authentication templates">
       <option name="closed" value="true" />
@@ -485,7 +459,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739569009423</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Monitoring Redis with Django Redisboard">
+      <option name="closed" value="true" />
+      <created>1739569052888</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1739569052888</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Monitoring Redis with Django Redisboard">
+      <option name="closed" value="true" />
+      <created>1739569154365</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1739569154365</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Monitoring Redis with Django Redisboard">
+      <option name="closed" value="true" />
+      <created>1739569242148</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1739569242152</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
