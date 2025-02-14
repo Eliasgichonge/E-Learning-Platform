@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Creating a Content Management &#10;System" />
+    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Building an E-Learning Platform" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,11 +53,28 @@
       <option name="project" value="LOCAL" />
       <updated>1739555084073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Building an E-Learning Platform">
+      <option name="closed" value="true" />
+      <created>1739555208135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739555208135</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Building an E-Learning Platform">
+      <option name="closed" value="true" />
+      <created>1739555398676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739555398676</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a Content Management &#10;System" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a Content Management &#10;System" />
+    <MESSAGE value="Building an E-Learning Platform" />
+    <option name="LAST_COMMIT_MESSAGE" value="Building an E-Learning Platform" />
   </component>
 </project>
