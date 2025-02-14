@@ -9,3 +9,6 @@ class SubjectAdmin(admin.ModelAdmin):
 
 class ModuleInline(admin.StackedInline):
       model = Module
+
+
+@admin.register(Course)
