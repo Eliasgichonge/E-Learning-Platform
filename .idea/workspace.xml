@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Using formsets for course modules">
-      <change beforePath="$PROJECT_DIR$/educa/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/educa/db.sqlite3" afterDir="false" />
-    </list>
+    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Using mixins from django-braces" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,14 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739554844756</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Using fixtures to provide initial data for models">
-      <option name="closed" value="true" />
-      <created>1739557931258</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1739557931258</updated>
     </task>
     <task id="LOCAL-00031" summary="Creating models for polymorphic content">
       <option name="closed" value="true" />
@@ -475,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739564805279</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Using mixins from django-braces">
+      <option name="closed" value="true" />
+      <created>1739565168335</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1739565168335</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -492,6 +490,7 @@
     <MESSAGE value="Creating the authentication templates" />
     <MESSAGE value="Creating a Content Management &#10;System" />
     <MESSAGE value="Using formsets for course modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using formsets for course modules" />
+    <MESSAGE value="Using mixins from django-braces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using mixins from django-braces" />
   </component>
 </project>
