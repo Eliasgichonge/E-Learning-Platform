@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Creating a Content Management &#10;System">
-      <change afterPath="$PROJECT_DIR$/educa/courses/forms.py" afterDir="false" />
+    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Using formsets for course modules">
+      <change afterPath="$PROJECT_DIR$/educa/courses/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/course/list.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/registration/logged_out.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/registration/login.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
@@ -77,14 +78,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739554844756</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Registering the models in the administration site">
-      <option name="closed" value="true" />
-      <created>1739556995374</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1739556995374</updated>
     </task>
     <task id="LOCAL-00026" summary="Registering the models in the administration site">
       <option name="closed" value="true" />
@@ -470,7 +463,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739562405551</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Using formsets for course modules">
+      <option name="closed" value="true" />
+      <created>1739562617449</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1739562617449</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -486,6 +487,7 @@
     <MESSAGE value="Adding authentication views" />
     <MESSAGE value="Creating the authentication templates" />
     <MESSAGE value="Creating a Content Management &#10;System" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a Content Management &#10;System" />
+    <MESSAGE value="Using formsets for course modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using formsets for course modules" />
   </component>
 </project>
