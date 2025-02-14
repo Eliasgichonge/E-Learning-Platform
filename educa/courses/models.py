@@ -40,6 +40,7 @@ class Module(models.Model):
                                on_delete=models.CASCADE)
       title = models.CharField(max_length=200)
       description = models.TextField(blank=True)
+      order = OrderField(blank=True, for_fields=['course'])
 
       def __str__(self):
           return self.title
