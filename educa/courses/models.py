@@ -59,6 +59,9 @@ class Content(models.Model):
       item = GenericForeignKey('content_type', 'object_id')
       order = OrderField(blank=True, for_fields=['module'])
 
+      class Meta:
+            ordering = ['order']
+
 
 class ItemBase(models.Model):
       owner = models.ForeignKey(User,

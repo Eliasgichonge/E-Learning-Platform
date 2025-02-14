@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Creating custom model fields">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/educa/courses/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/fields.py" afterDir="false" />
+    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Adding ordering to module and content objects">
+      <change beforePath="$PROJECT_DIR$/educa/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -412,7 +411,55 @@
       <option name="project" value="LOCAL" />
       <updated>1739558798680</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Creating custom model fields">
+      <option name="closed" value="true" />
+      <created>1739559000956</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559000956</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Adding ordering to module and content objects">
+      <option name="closed" value="true" />
+      <created>1739559151924</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559151924</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Adding ordering to module and content objects">
+      <option name="closed" value="true" />
+      <created>1739559188256</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559188256</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Adding ordering to module and content objects">
+      <option name="closed" value="true" />
+      <created>1739559231366</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559231366</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Adding ordering to module and content objects">
+      <option name="closed" value="true" />
+      <created>1739559275018</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559275018</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Adding ordering to module and content objects">
+      <option name="closed" value="true" />
+      <created>1739559311220</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559311220</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -425,6 +472,7 @@
     <MESSAGE value="Creating models for polymorphic content" />
     <MESSAGE value="Creating the Content models" />
     <MESSAGE value="Creating custom model fields" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating custom model fields" />
+    <MESSAGE value="Adding ordering to module and content objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding ordering to module and content objects" />
   </component>
 </project>
