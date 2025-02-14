@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Adding ordering to module and content objects">
-      <change beforePath="$PROJECT_DIR$/educa/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/models.py" afterDir="false" />
-    </list>
+    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Adding authentication views" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,46 +64,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739554844756</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Creating a Content Management &#10;System">
-      <option name="closed" value="true" />
-      <created>1739555084073</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1739555084073</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Building an E-Learning Platform">
-      <option name="closed" value="true" />
-      <created>1739555208135</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1739555208135</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Building an E-Learning Platform">
-      <option name="closed" value="true" />
-      <created>1739555398676</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1739555398676</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Building an E-Learning Platform">
-      <option name="closed" value="true" />
-      <created>1739555502512</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1739555502512</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Building an E-Learning Platform">
-      <option name="closed" value="true" />
-      <created>1739555648853</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1739555648853</updated>
     </task>
     <task id="LOCAL-00006" summary="Building an E-Learning Platform">
       <option name="closed" value="true" />
@@ -459,7 +417,47 @@
       <option name="project" value="LOCAL" />
       <updated>1739559311220</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Adding ordering to module and content objects">
+      <option name="closed" value="true" />
+      <created>1739559354998</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559354998</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Adding ordering to module and content objects">
+      <option name="closed" value="true" />
+      <created>1739559522852</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559522855</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Adding ordering to module and content objects">
+      <option name="closed" value="true" />
+      <created>1739559537472</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559537472</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Adding an authentication system">
+      <option name="closed" value="true" />
+      <created>1739559594277</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559594277</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Adding authentication views">
+      <option name="closed" value="true" />
+      <created>1739559647786</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1739559647786</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -473,6 +471,7 @@
     <MESSAGE value="Creating the Content models" />
     <MESSAGE value="Creating custom model fields" />
     <MESSAGE value="Adding ordering to module and content objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding ordering to module and content objects" />
+    <MESSAGE value="Adding authentication views" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding authentication views" />
   </component>
 </project>
