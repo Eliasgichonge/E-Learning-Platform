@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Displaying courses">
-      <change afterPath="$PROJECT_DIR$/educa/courses/templates/courses/course/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educa/courses/templates/courses/course/list.html" afterDir="false" />
+    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Creating a student registration view">
+      <change afterPath="$PROJECT_DIR$/educa/students/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -45,6 +44,7 @@
     <setting file="file://$PROJECT_DIR$/educa/courses/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/students/views.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -83,54 +83,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739554844756</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Creating the Content models">
-      <option name="closed" value="true" />
-      <created>1739558304251</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1739558304251</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Creating the Content models">
-      <option name="closed" value="true" />
-      <created>1739558479666</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1739558479666</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Creating the Content models">
-      <option name="closed" value="true" />
-      <created>1739558521441</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1739558521441</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Creating the Content models">
-      <option name="closed" value="true" />
-      <created>1739558600767</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1739558600767</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Creating the Content models">
-      <option name="closed" value="true" />
-      <created>1739558636029</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1739558636029</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Creating custom model fields">
-      <option name="closed" value="true" />
-      <created>1739558660125</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1739558660125</updated>
     </task>
     <task id="LOCAL-00042" summary="Creating custom model fields">
       <option name="closed" value="true" />
@@ -476,7 +428,55 @@
       <option name="project" value="LOCAL" />
       <updated>1739566181750</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Displaying courses">
+      <option name="closed" value="true" />
+      <created>1739566457216</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1739566457216</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Displaying courses">
+      <option name="closed" value="true" />
+      <created>1739566480927</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1739566480927</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Displaying courses">
+      <option name="closed" value="true" />
+      <created>1739566505985</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1739566505985</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Displaying courses">
+      <option name="closed" value="true" />
+      <created>1739566564954</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1739566564954</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Adding student registration">
+      <option name="closed" value="true" />
+      <created>1739566622183</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1739566622183</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Creating a student registration view">
+      <option name="closed" value="true" />
+      <created>1739566705520</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1739566705520</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -496,6 +496,8 @@
     <MESSAGE value="Using mixins from django-braces" />
     <MESSAGE value="Rendering and Caching Content" />
     <MESSAGE value="Displaying courses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Displaying courses" />
+    <MESSAGE value="Adding student registration" />
+    <MESSAGE value="Creating a student registration view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a student registration view" />
   </component>
 </project>
