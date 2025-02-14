@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Registering the models in the administration site">
-      <change beforePath="$PROJECT_DIR$/educa/courses/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/admin.py" afterDir="false" />
+    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Using fixtures to provide initial data for models">
+      <change beforePath="$PROJECT_DIR$/educa/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/educa/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +229,47 @@
       <option name="project" value="LOCAL" />
       <updated>1739556839264</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Registering the models in the administration site">
+      <option name="closed" value="true" />
+      <created>1739556906503</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1739556906503</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Registering the models in the administration site">
+      <option name="closed" value="true" />
+      <created>1739556964668</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1739556964668</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Registering the models in the administration site">
+      <option name="closed" value="true" />
+      <created>1739556995374</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1739556995374</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Registering the models in the administration site">
+      <option name="closed" value="true" />
+      <created>1739557043486</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1739557043486</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Using fixtures to provide initial data for models">
+      <option name="closed" value="true" />
+      <created>1739557158421</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1739557158421</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,6 +278,7 @@
     <MESSAGE value="Serving media files" />
     <MESSAGE value="Building the course models" />
     <MESSAGE value="Registering the models in the administration site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Registering the models in the administration site" />
+    <MESSAGE value="Using fixtures to provide initial data for models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using fixtures to provide initial data for models" />
   </component>
 </project>
