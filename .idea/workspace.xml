@@ -69,7 +69,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739555398676</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Building an E-Learning Platform">
+      <option name="closed" value="true" />
+      <created>1739555502512</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739555502512</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Building an E-Learning Platform">
+      <option name="closed" value="true" />
+      <created>1739555648853</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739555648853</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Building an E-Learning Platform">
+      <option name="closed" value="true" />
+      <created>1739555726937</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739555726937</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Building an E-Learning Platform">
+      <option name="closed" value="true" />
+      <created>1739555754013</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739555754013</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
