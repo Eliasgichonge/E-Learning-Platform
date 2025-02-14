@@ -4,18 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Creating the Content models" />
+    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Creating custom model fields">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educa/courses/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/fields.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/educa/courses/admin.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/educa/courses/courses/fixtures/subjects.json" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/fields.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/fixtures/subjects.json" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
@@ -361,7 +372,47 @@
       <option name="project" value="LOCAL" />
       <updated>1739558521441</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Creating the Content models">
+      <option name="closed" value="true" />
+      <created>1739558600767</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1739558600767</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Creating the Content models">
+      <option name="closed" value="true" />
+      <created>1739558636029</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1739558636029</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Creating custom model fields">
+      <option name="closed" value="true" />
+      <created>1739558660125</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1739558660125</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Creating custom model fields">
+      <option name="closed" value="true" />
+      <created>1739558772796</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1739558772796</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Creating custom model fields">
+      <option name="closed" value="true" />
+      <created>1739558798680</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1739558798680</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -373,6 +424,7 @@
     <MESSAGE value="Using fixtures to provide initial data for models" />
     <MESSAGE value="Creating models for polymorphic content" />
     <MESSAGE value="Creating the Content models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating the Content models" />
+    <MESSAGE value="Creating custom model fields" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating custom model fields" />
   </component>
 </project>
