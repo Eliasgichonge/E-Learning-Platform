@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Serving media files" />
+    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Building the course models">
+      <change beforePath="$PROJECT_DIR$/educa/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/educa/courses/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
   </component>
@@ -137,13 +140,62 @@
       <option name="project" value="LOCAL" />
       <updated>1739556161154</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Serving media files">
+      <option name="closed" value="true" />
+      <created>1739556199064</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739556199064</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Building the course models">
+      <option name="closed" value="true" />
+      <created>1739556252557</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739556252557</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Building the course models">
+      <option name="closed" value="true" />
+      <created>1739556290770</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739556290770</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Building the course models">
+      <option name="closed" value="true" />
+      <created>1739556396913</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739556396913</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Building the course models">
+      <option name="closed" value="true" />
+      <created>1739556486700</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739556486700</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Building the course models">
+      <option name="closed" value="true" />
+      <created>1739556541054</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739556541054</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a Content Management &#10;System" />
     <MESSAGE value="Building an E-Learning Platform" />
     <MESSAGE value="Serving media files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Serving media files" />
+    <MESSAGE value="Building the course models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Building the course models" />
   </component>
 </project>
