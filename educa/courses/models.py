@@ -15,62 +15,67 @@ class Subject(models.Model):
 
 
 class Course(models.Model):
-    owner = models.ForeignKey(User,
+      owner = models.ForeignKey(User,
                               related_name='courses_created',
                               on_delete=models.CASCADE)
-    subject = models.ForeignKey(Subject,
+      subject = models.ForeignKey(Subject,
                                 related_name='courses',
                                 on_delete=models.CASCADE)
-    title = models.CharField(max_length=200)
-    slug = models.SlugField(max_length=200, unique=True)
-    overview = models.TextField()
-    created = models.DateTimeField(auto_now_add=True)
+      title = models.CharField(max_length=200)
+      slug = models.SlugField(max_length=200, unique=True)
+      overview = models.TextField()
+      created = models.DateTimeField(auto_now_add=True)
 
-    class Meta:
-        ordering = ['-created']
+      class Meta:
+            ordering = ['-created']
 
-    def __str__(self):
-        return self.title
+      def __str__(self):
+          return self.title
 
 
 class Module(models.Model):
-    course = models.ForeignKey(Course,
+      course = models.ForeignKey(Course,
                                related_name='modules',
                                on_delete=models.CASCADE)
-    title = models.CharField(max_length=200)
-    description = models.TextField(blank=True)
+      title = models.CharField(max_length=200)
+      description = models.TextField(blank=True)
 
-    def __str__(self):
-        return self.title
+      def __str__(self):
+          return self.title
 
 
 class Content(models.Model):
-    module = models.ForeignKey(Module,
+      module = models.ForeignKey(Module,
                                related_name='contents',
                                on_delete=models.CASCADE)
-    content_type = models.ForeignKey(ContentType,
+      content_type = models.ForeignKey(ContentType,
                                      on_delete=models.CASCADE)
-    object_id = models.PositiveIntegerField()
-    item = GenericForeignKey('content_type', 'object_id')
+      object_id = models.PositiveIntegerField()
+      item = GenericForeignKey('content_type', 'object_id')
 
 
 class ItemBase(models.Model):
-    owner = models.ForeignKey(User,
+      owner = models.ForeignKey(User,
                               related_name='%(class)s_related',
                               on_delete=models.CASCADE)
-    title = models.CharField(max_length=250)
-    created = models.DateTimeField(auto_now_add=True)
-    updated = models.DateTimeField(auto_now=True)
+      title = models.CharField(max_length=250)
+      created = models.DateTimeField(auto_now_add=True)
+      updated = models.DateTimeField(auto_now=True)
 
-    class Meta:
-        abstract = True
+      class Meta:
+            abstract = True
 
-    def __str__(self):
-        return self.title
+      def __str__(self):
+          return self.title
 
 
 class Text(ItemBase):
-    content = models.TextField()
+      content = models.TextField()
 
 
 class File(ItemBase):
+      file = models.FileField(upload_to='files')
+
+
+class Image(ItemBase):
+      file = models.FileField(upload_to='images')
