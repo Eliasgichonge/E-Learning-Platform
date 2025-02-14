@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'embed_video',
     'students.apps.StudentsConfig',
+    'redisboard',
 ]
 
 MIDDLEWARE = [
