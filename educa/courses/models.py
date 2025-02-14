@@ -54,6 +54,7 @@ class Content(models.Model):
                                      on_delete=models.CASCADE)
       object_id = models.PositiveIntegerField()
       item = GenericForeignKey('content_type', 'object_id')
+      order = OrderField(blank=True, for_fields=['module'])
 
 
 class ItemBase(models.Model):
