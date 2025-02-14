@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Creating the authentication templates">
-      <change beforePath="$PROJECT_DIR$/educa/courses/templates/registration/logged_out.html" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/templates/registration/logged_out.html" afterDir="false" />
-    </list>
+    <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Creating the authentication templates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/base.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/registration/logged_out.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/registration/login.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/educa/urls.py" root0="SKIP_INSPECTION" />
   </component>
@@ -72,22 +71,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739554844756</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Building the course models">
-      <option name="closed" value="true" />
-      <created>1739556597257</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1739556597257</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Building the course models">
-      <option name="closed" value="true" />
-      <created>1739556664265</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1739556664265</updated>
     </task>
     <task id="LOCAL-00020" summary="Building the course models">
       <option name="closed" value="true" />
@@ -465,7 +448,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739561298029</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Creating the authentication templates">
+      <option name="closed" value="true" />
+      <created>1739561498567</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1739561498567</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Creating the authentication templates">
+      <option name="closed" value="true" />
+      <created>1739561742762</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1739561742762</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
