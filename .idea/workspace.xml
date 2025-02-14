@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Creating a Content Management &#10;System">
-      <change afterPath="$PROJECT_DIR$/educa/courses/templates/courses/manage/course/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educa/courses/templates/courses/manage/course/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/forms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -28,9 +27,13 @@
     <setting file="file://$PROJECT_DIR$/educa/courses/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/fields.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/fixtures/subjects.json" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/forms.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/static/css/base.css" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/base.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/course/delete.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/course/form.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/course/list.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/registration/logged_out.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/registration/login.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/views.py" root0="SKIP_INSPECTION" />
@@ -74,30 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739554844756</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Registering the models in the administration site">
-      <option name="closed" value="true" />
-      <created>1739556839264</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1739556839264</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Registering the models in the administration site">
-      <option name="closed" value="true" />
-      <created>1739556906503</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1739556906503</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Registering the models in the administration site">
-      <option name="closed" value="true" />
-      <created>1739556964668</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1739556964668</updated>
     </task>
     <task id="LOCAL-00025" summary="Registering the models in the administration site">
       <option name="closed" value="true" />
@@ -467,7 +446,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739562159045</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Creating a Content Management &#10;System">
+      <option name="closed" value="true" />
+      <created>1739562325369</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1739562325369</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Creating a Content Management &#10;System">
+      <option name="closed" value="true" />
+      <created>1739562367606</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1739562367606</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Creating a Content Management &#10;System">
+      <option name="closed" value="true" />
+      <created>1739562405551</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1739562405551</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
