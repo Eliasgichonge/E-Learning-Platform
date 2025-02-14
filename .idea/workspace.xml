@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Creating a student registration view">
-      <change beforePath="$PROJECT_DIR$/educa/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educa/courses/templates/courses/course/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/educa/courses/templates/courses/course/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educa/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/educa/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -31,6 +32,7 @@
     <setting file="file://$PROJECT_DIR$/educa/courses/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/static/css/base.css" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/base.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/course/detail.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/content/form.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/course/delete.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/educa/courses/templates/courses/manage/course/form.html" root0="SKIP_INSPECTION" />
@@ -85,22 +87,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739554844756</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Adding ordering to module and content objects">
-      <option name="closed" value="true" />
-      <created>1739559188256</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1739559188256</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Adding ordering to module and content objects">
-      <option name="closed" value="true" />
-      <created>1739559231366</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1739559231366</updated>
     </task>
     <task id="LOCAL-00048" summary="Adding ordering to module and content objects">
       <option name="closed" value="true" />
@@ -478,7 +464,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739566934854</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Creating a student registration view">
+      <option name="closed" value="true" />
+      <created>1739567111173</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1739567111173</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Creating a student registration view">
+      <option name="closed" value="true" />
+      <created>1739567146657</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1739567146657</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
