@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d317d98e-a532-45f5-a9e4-b0408a1a74ee" name="Changes" comment="Displaying courses">
-      <change beforePath="$PROJECT_DIR$/educa/educa/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/educa/educa/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templates/courses/course/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templates/courses/course/list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -82,30 +83,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739554844756</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Creating the Content models">
-      <option name="closed" value="true" />
-      <created>1739558115191</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1739558115191</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Creating the Content models">
-      <option name="closed" value="true" />
-      <created>1739558170681</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1739558170681</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Creating the Content models">
-      <option name="closed" value="true" />
-      <created>1739558236058</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1739558236058</updated>
     </task>
     <task id="LOCAL-00036" summary="Creating the Content models">
       <option name="closed" value="true" />
@@ -475,7 +452,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739565989984</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Displaying courses">
+      <option name="closed" value="true" />
+      <created>1739566074288</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1739566074288</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Displaying courses">
+      <option name="closed" value="true" />
+      <created>1739566101710</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1739566101710</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Displaying courses">
+      <option name="closed" value="true" />
+      <created>1739566181750</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1739566181750</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
