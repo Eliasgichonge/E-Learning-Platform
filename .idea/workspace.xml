@@ -91,22 +91,6 @@
       <option name="presentableId" value="Default" />
       <updated>1739554844756</updated>
     </task>
-    <task id="LOCAL-00064" summary="Creating the authentication templates">
-      <option name="closed" value="true" />
-      <created>1739560973084</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1739560973084</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Creating the authentication templates">
-      <option name="closed" value="true" />
-      <created>1739561179416</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1739561179416</updated>
-    </task>
     <task id="LOCAL-00066" summary="Creating the authentication templates">
       <option name="closed" value="true" />
       <created>1739561298029</created>
@@ -483,7 +467,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739569619403</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Monitoring Redis with Django Redisboard">
+      <option name="closed" value="true" />
+      <created>1739598619325</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1739598619325</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Monitoring Redis with Django Redisboard">
+      <option name="closed" value="true" />
+      <created>1739598652327</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1739598652327</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
